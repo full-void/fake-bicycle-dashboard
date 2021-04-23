@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/fake-bicycle-dashboard/static/css/main.629d6966.chunk.css",
-    "main.js": "/fake-bicycle-dashboard/static/js/main.e074b45b.chunk.js",
-    "main.js.map": "/fake-bicycle-dashboard/static/js/main.e074b45b.chunk.js.map",
+    "main.js": "/fake-bicycle-dashboard/static/js/main.9f3d2d96.chunk.js",
+    "main.js.map": "/fake-bicycle-dashboard/static/js/main.9f3d2d96.chunk.js.map",
     "runtime-main.js": "/fake-bicycle-dashboard/static/js/runtime-main.5048cfbe.js",
     "runtime-main.js.map": "/fake-bicycle-dashboard/static/js/runtime-main.5048cfbe.js.map",
     "static/css/2.f845c8f4.chunk.css": "/fake-bicycle-dashboard/static/css/2.f845c8f4.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.f845c8f4.chunk.css",
     "static/js/2.70afcb15.chunk.js",
     "static/css/main.629d6966.chunk.css",
-    "static/js/main.e074b45b.chunk.js"
+    "static/js/main.9f3d2d96.chunk.js"
   ]
 }
