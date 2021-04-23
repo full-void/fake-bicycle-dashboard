@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Fake Bicycle Inc.'s Employee Dashboard
+
+Made for Refract Labs Internship Third Round as per the requirements
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
