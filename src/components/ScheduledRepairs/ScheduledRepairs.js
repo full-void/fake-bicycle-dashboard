@@ -36,13 +36,13 @@ function ScheduledRepair() {
         events={[
           {
             title: "Joe's Pedal Repair",
-            start: "2021-04-23T08:00:00",
-            end: "2021-04-23T16:00:00",
+            start: "2021-04-23T11:00:00",
+            end: "2021-04-23T20:00:00",
           },
           {
             title: "Joe's Pedal Repair",
-            start: "2021-04-29T08:00:00",
-            end: "2021-04-29T16:00:00",
+            start: "2021-04-29T11:00:00",
+            end: "2021-04-29T20:00:00",
           },
           {
             title: "Yuki's Chain Oiling",
