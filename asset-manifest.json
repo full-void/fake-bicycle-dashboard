@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/fake-bicycle-dashboard/static/css/main.629d6966.chunk.css",
-    "main.js": "/fake-bicycle-dashboard/static/js/main.9f3d2d96.chunk.js",
-    "main.js.map": "/fake-bicycle-dashboard/static/js/main.9f3d2d96.chunk.js.map",
+    "main.css": "/fake-bicycle-dashboard/static/css/main.ea9e5516.chunk.css",
+    "main.js": "/fake-bicycle-dashboard/static/js/main.9e38de0a.chunk.js",
+    "main.js.map": "/fake-bicycle-dashboard/static/js/main.9e38de0a.chunk.js.map",
     "runtime-main.js": "/fake-bicycle-dashboard/static/js/runtime-main.5048cfbe.js",
     "runtime-main.js.map": "/fake-bicycle-dashboard/static/js/runtime-main.5048cfbe.js.map",
     "static/css/2.f845c8f4.chunk.css": "/fake-bicycle-dashboard/static/css/2.f845c8f4.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.9d2cfa4c.chunk.js.map": "/fake-bicycle-dashboard/static/js/3.9d2cfa4c.chunk.js.map",
     "index.html": "/fake-bicycle-dashboard/index.html",
     "static/css/2.f845c8f4.chunk.css.map": "/fake-bicycle-dashboard/static/css/2.f845c8f4.chunk.css.map",
-    "static/css/main.629d6966.chunk.css.map": "/fake-bicycle-dashboard/static/css/main.629d6966.chunk.css.map",
+    "static/css/main.ea9e5516.chunk.css.map": "/fake-bicycle-dashboard/static/css/main.ea9e5516.chunk.css.map",
     "static/js/2.70afcb15.chunk.js.LICENSE.txt": "/fake-bicycle-dashboard/static/js/2.70afcb15.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/fake-bicycle-dashboard/static/media/logo.6ce24c58.svg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.5048cfbe.js",
     "static/css/2.f845c8f4.chunk.css",
     "static/js/2.70afcb15.chunk.js",
-    "static/css/main.629d6966.chunk.css",
-    "static/js/main.9f3d2d96.chunk.js"
+    "static/css/main.ea9e5516.chunk.css",
+    "static/js/main.9e38de0a.chunk.js"
   ]
 }
