@@ -56,11 +56,13 @@ const rows = [
 
 function CustomerView() {
   return (
-    <div className="customer-view-table pa3 ph5-ns">
+    <div className="pa3 ph5-l flex flex-wrap items-center justify-center">
       <Tooltip title="Your Customers. You can also sort the table via the columns by either clicking or selecting the option from the 3-dot menu besides the column name as you hover over it.">
         <h1 className="title">Ron's Customers</h1>
       </Tooltip>
+      <div className="customer-view-table">
       <DataGrid rows={rows} columns={columns} pageSize={4} />
+      </div>
     </div>
   );
 }

@@ -26,11 +26,13 @@ const rows = [
 
 function InventoryView() {
   return (
-    <div className="inventory-view-table pa3 ph5-ns">
+    <div className="pa3 ph5-l w-90-m w-90-sm inventory-view-container flex flex-wrap items-center justify-center">
       <Tooltip title="Your Inventory. You can also sort the table via the columns by either clicking or selecting the option from the 3-dot menu besides the column name as you hover over it.">
         <h1 className="title">Ron's Inventory</h1>
       </Tooltip>
+      <div className="inventory-view-table">
       <DataGrid rows={rows} columns={columns} pageSize={4} />
+      </div>
     </div>
   );
 }

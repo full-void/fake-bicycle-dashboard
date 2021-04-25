@@ -1,6 +1,15 @@
 @import '../../index.scss';
 
 .inventory-view-table {
-    height: 400px;
-    min-width: 615px;
+    height: 330px;
+    max-width: 483px;
+    min-width: 320px;
+    width: 100%;
+    @media screen and (min-width: 500px) {
+        min-width: 483px;
+    }
+}
+
+.inventory-view-container {
+    max-width: 630px;
 }

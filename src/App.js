@@ -11,7 +11,7 @@ function App() {
     <div className="App">
       <AppBar />
       <Hero />
-      <div className='flex flex-wrap'>
+      <div className='flex flex-wrap items-start justify-center'>
         <ScheduledRepair />
         <InventoryView />
       </div>
